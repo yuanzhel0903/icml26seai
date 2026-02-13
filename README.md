@@ -2,7 +2,7 @@
 
 ICLR 2025 Workshop on AI for Children
 
-**Live site:** https://pediamedai.github.io/icml26seai/
+**Live site:** https://yuanzhel0903.github.io/icml26seai/
 
 ## 📁 Structure
 
@@ -25,7 +25,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/pediamedai/icml26seai.git
+git remote add origin https://github.com/yuanzhel0903/icml26seai.git
 git push -u origin main
 ```
 
@@ -56,7 +56,7 @@ All pages are pure HTML files. Edit them with any text editor:
 
 ## 📝 Notes
 
-- All links point to `https://pediamedai.github.io/icml26seai/`
+- All links point to `https://yuanzhel0903.github.io/icml26seai/`
 - Navigation uses relative paths
 - CSS loaded from CDN (requires internet)
 - Images in `assets/` subdirectories
